@@ -1,6 +1,5 @@
 $(document).ready(function () {
   let currentFloor = 2;
-  let currentFlat = 1;
   let floorPath = $(".home-image path");
   let counterUp = $(".counter-up");
   let counterDown = $(".counter-down");
